@@ -8,8 +8,8 @@
 * gulp.js（-g/グローバルインストール）
 
 ## 開発手順（win:cmd、mac:tarminal）
-1. npm install
-2. gulp
+1. npm install （package.jsonにあるライブラリがインストールされる）
+2. gulp （gulpfile.jsのdefaultコマンドが実行される）
 
 ## npm installでインストールされるライブラリ
 * gulp
