@@ -1,4 +1,5 @@
 # Node.js_gulp-primer
+株式会社LIGさんの「Gulp.js入門」の記事を読んで作っていじったgulp環境
 
 ## このサンプル制作時の環境
 * Windows10 Pro、64bit、32GB
