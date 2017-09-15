@@ -7,7 +7,7 @@
 * Node.js（本サンプル制作時はv8.4.0）
 * gulp.js（-g/グローバルインストール）
 
-## 開発手順
+## 開発手順（win:cmd、mac:tarminal）
 1. npm install
 2. gulp
 
@@ -28,6 +28,3 @@
 
 ## 参考リンク
 * [Gulp.js入門 - コーディングを10倍速くする環境を作る方法まとめ | 株式会社LIG](https://liginc.co.jp/web/tutorial/117900)
-
-
-
