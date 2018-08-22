@@ -1,16 +1,28 @@
 # Node.js_gulp-primer
 株式会社LIGさんの「Gulp.js入門」の記事を読んで作っていじったgulp環境
+<br><br><br>
+
+
 
 ## このサンプル制作時の環境
 * Windows10 Pro、64bit、32GB
+<br><br><br>
+
+
 
 ## 事前に用意するもの
 * Node.js（本サンプル制作時はv8.4.0）
 * gulp.js（-g/グローバルインストール）
+<br><br><br>
+
+
 
 ## 開発手順（win:cmd、mac:tarminal）
 1. npm install （package.jsonにあるライブラリがインストールされる）
 2. gulp （gulpfile.jsのdefaultコマンドが実行される。終了は ctrl+C 。）
+<br><br><br>
+
+
 
 ## npm installでインストールされるライブラリ
 * gulp
@@ -18,6 +30,9 @@
 * gulp-frontnote
 * gulp-sass
 * gulp-uglify
+<br><br><br>
+
+
 
 ## gulpで実行されること
 * src ＞ public へファイル出力
@@ -26,9 +41,15 @@
 * sassからcssへ変換
 * uglifyでjsファイル圧縮
 * browser-syncでLiveReload
+<br><br><br>
+
+
 
 ## 参考リンク
 * [Gulp.js入門 - コーディングを10倍速くする環境を作る方法まとめ | 株式会社LIG](https://liginc.co.jp/web/tutorial/117900)
+<br><br><br>
+
+
 
 ## 知っておくと便利なnpmコマンド一覧
 * `npm root -g` … グローバルのルート（node_modules）を調べる
